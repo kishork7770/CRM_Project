@@ -1,0 +1,298 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "tags": [
+        "beauty",
+        "mascara"
+      ],
+      "brand": "Essence",
+      "sku": "RCH45Q1A",
+      "weight": 2,
+      "dimensions": {
+        "width": 23.17,
+        "height": 14.43,
+        "depth": 28.01
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 24,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035109868",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": "30",
+      "title": "Kiwi",
+      "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+      "category": "groceries",
+      "price": 2.49,
+      "discountPercentage": 10.32,
+      "rating": 4.37,
+      "stock": 1,
+      "tags": [
+        "fruits"
+      ],
+      "sku": "0X3NORB9",
+      "weight": 8,
+      "dimensions": {
+        "width": 27.3,
+        "height": 7.48,
+        "depth": 15.08
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Dylan Wells",
+          "reviewerEmail": "dylan.wells@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Noah Hernandez",
+          "reviewerEmail": "noah.hernandez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 8,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "3325493172934",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "5a7c",
+      "name": "Kishor7770",
+      "email": "kishor@gmail.com",
+      "password": "Kishor@2002",
+      "confirmPass": "Kishor@2002",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "6357",
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "password": "Vishal@123",
+      "confirmPass": "Manish@123",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "112d",
+      "name": "Kishor",
+      "email": "kishor123@gmail.com",
+      "password": "abcd@123",
+      "confirmPass": "abcd@123",
+      "role": "user",
+      "status": "inactive"
+    },
+    {
+      "id": "9d9f",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abcd123",
+      "confirmPass": "abcd123",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "e7f4",
+      "name": "om dixit",
+      "email": "om@gmail.com",
+      "password": "om123",
+      "Confirmpassword": "om123",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "fb65",
+      "name": "",
+      "email": "",
+      "password": "",
+      "Confirmpassword": "",
+      "role": "",
+      "status": ""
+    }
+  ],
+  "Leads": [
+    {
+      "id": "5a79",
+      "name": "Kishor Gangadhar Kolekar",
+      "email": "kishor@gmail.com",
+      "password": "Kishor@2002",
+      "confirmPass": "Kishor@2002",
+      "role": "user",
+      "phone": 4857847578,
+      "classMode": "Online",
+      "status": "active",
+      "Course": "java full-stack development"
+    },
+    {
+      "id": "2ca0",
+      "name": "Malhar Gadade",
+      "email": "malhar123@gmail.com",
+      "password": "malhar123",
+      "confirm_password": "malhar123",
+      "role": "user",
+      "status": "active",
+      "phone": "1234567890",
+      "Course": "python"
+    },
+    {
+      "id": "9374",
+      "name": "Malhar Gadade",
+      "email": "malhar123@gmail.com",
+      "password": "malhar123",
+      "confirm_password": "malhar123",
+      "role": "user",
+      "status": "active",
+      "phone": "1234567890",
+      "Course": "python"
+    },
+    {
+      "id": "ab62",
+      "name": "Malhar Gadade",
+      "email": "malhar123@gmail.com",
+      "password": "malhar123",
+      "confirm_password": "malhar123",
+      "role": "user",
+      "status": "active",
+      "phone": "1234567890",
+      "Course": "python"
+    },
+    {
+      "id": "361f",
+      "name": "Malhar Gadade",
+      "email": "malhar123@gmail.com",
+      "password": "malhar123",
+      "confirm_password": "malhar123",
+      "role": "user",
+      "status": "active",
+      "phone": "1234567890",
+      "Course": "python"
+    },
+    {
+      "id": "c657",
+      "name": "aditya sasane",
+      "email": "adi12@gmail.com",
+      "password": "adi123",
+      "confirm_password": "adi123",
+      "role": "user",
+      "classMode": "Online",
+      "status": "active",
+      "phone": "4567894567",
+      "Course": "java"
+    },
+    {
+      "id": "0fbf",
+      "name": "manish",
+      "email": "manish12@gmail.com",
+      "password": "Manish123",
+      "confirm_password": "Manish123",
+      "role": "admin",
+      "status": "active",
+      "phone": "1648579562",
+      "Course": "DevOps"
+    },
+    {
+      "id": "2a86",
+      "name": "Vighnesh Jadhav",
+      "email": "vighnesh1@gmail.com",
+      "password": "Vighnesh@123",
+      "confirm_password": "Vighanesh@123",
+      "batch": "morning",
+      "role": "admin",
+      "status": "active",
+      "phone": "1234567845",
+      "Course": "AWS",
+      "classMode": "Online"
+    },
+    {
+      "id": "c98e",
+      "name": "Rohan Manish Kore",
+      "email": "rohank@gmail.com",
+      "password": "Rohan@123",
+      "confirm_password": "Rohan@123",
+      "batch": "Morning",
+      "role": "admin",
+      "status": "active",
+      "phone": "4567891548",
+      "Course": "Power BI",
+      "classMode": "Offline"
+    },
+    {
+      "id": "1e49",
+      "name": "om dixit",
+      "email": "om@gmail.com",
+      "password": "om123",
+      "confirm_password": "om123",
+      "batch": "morning",
+      "role": "user",
+      "status": "active",
+      "phone": "1234567890",
+      "Course": "reactjs",
+      "classMode": "Online"
+    }
+  ]
+}
